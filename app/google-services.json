@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "392276063941",
+    "firebase_url": "https://av-messenger-9191d-default-rtdb.firebaseio.com",
+    "project_id": "av-messenger-9191d",
+    "storage_bucket": "av-messenger-9191d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392276063941:android:f28acc0b9689729b8022ac",
+        "android_client_info": {
+          "package_name": "com.av.avmessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392276063941-0v17f50l98rf2qhbom070bnhdtsv5cb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFE8P2vkXVgXrQ-QM77xHo-Klm0_n2ih0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392276063941-0v17f50l98rf2qhbom070bnhdtsv5cb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
